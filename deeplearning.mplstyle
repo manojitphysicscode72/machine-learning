@@ -1,0 +1,26 @@
+# Colors
+axes.facecolor: white
+axes.edgecolor: black
+figure.facecolor: white
+grid.color: grey
+
+# Font
+font.size: 14
+font.family: sans-serif
+font.sans-serif: Arial
+
+# Lines
+lines.linewidth: 2
+lines.color: blue
+
+# Markers
+lines.marker: o
+lines.markerfacecolor: red
+
+# Legend
+legend.loc: best
+legend.frameon: False
+
+# Ticks
+xtick.color: black
+ytick.color: black
